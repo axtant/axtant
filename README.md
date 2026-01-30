@@ -9,14 +9,13 @@
 -> Real time food ordering web app </i> 
 <a href="https://github.com/axtant/Mintmorsel" style="text-decoration:none; color:inherit;">🍕</a>
 <br><i>
--> right now listeing to music and learning automation </i>
+-> right now listeing to music and automating processes </i>
 
-<h1> uu </h1>
+<h1>  </h1>
   
 [![Email](https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekgordex10@gmail.com)
 &nbsp;
 [![Gaming](https://img.shields.io/badge/Gaming-2A475E?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/axtant)
 &nbsp;
-![VIWES](https://komarev.com/ghpvc/?username=axtant&label=%E2%80%8B&style=for-the-badge&color=444444)
-
+![Views](https://komarev.com/ghpvc/?username=axtant&label=Views&style=for-the-badge&color=444444)
 
