@@ -9,7 +9,7 @@
 -> Real time food ordering web app </i> 
 <a href="https://github.com/axtant/Mintmorsel" style="text-decoration:none; color:inherit;">🍕</a>
 <br><i>
--> right now listeing to music and automating processes </i>
+-> right now listening to music and automating processes </i>
 
 <h1>  </h1>
   
