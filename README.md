@@ -4,12 +4,9 @@
 
 <i>
 -> cs2 ullu, reducing gap b/w pros and casual, by  </i>
-<a href="https://www.notion.so/Faker-22dba305861780a38400f6afbcb31e18" style="text-decoration:none; color:inherit;">🎮</a>
+<a href="https://www.2hype.xyz" style="text-decoration:none; color:inherit;">🎮</a>
 <br><i>
--> Real time food ordering web app </i> 
-<a href="https://github.com/axtant/Mintmorsel" style="text-decoration:none; color:inherit;">🍕</a>
-<br><i>
--> right now listening to music and automating processes </i>
+-> right now listening to music and automating processes and workflows </i>
 
 <h1>  </h1>
   
